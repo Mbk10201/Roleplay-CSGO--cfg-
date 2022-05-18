@@ -1,0 +1,333 @@
+"Phrases"
+{
+	"zone_none"
+	{
+		"en"	"City"
+		"fr"	"Ville"
+	}
+	"zone_tunnel"
+	{
+		"en"	"Tunnel"
+		"fr"	"Tunnel"
+	}
+	"zone_mairie"
+	{
+		"en"	"TownHall"
+		"fr"	"Mairie"
+	}
+	"zone_police"
+	{
+		"en"	"Police Station"
+		"fr"	"Commissariat"
+	}
+	"zone_police_home"
+	{
+		"en"	"Police - Home"
+		"fr"	"Police - Accueil"
+	}
+	"zone_police_private"
+	{
+		"en"	"Police - Private"
+		"fr"	"Police - Accèss resérvé"
+	}
+	"zone_police_staff"
+	{
+		"en"	"Police - Staff"
+		"fr"	"Police - Staff"
+	}
+	"zone_police_parking"
+	{
+		"en"	"Police - Parking"
+		"fr"	"Police - Parking"
+	}
+	"zone_jail"
+	{
+		"en"	"Penitentiary"
+		"fr"	"Pénitentiaire"
+	}
+	"zone_metro"
+	{
+		"en"	"Subway"
+		"fr"	"Metro"
+	}
+	"zone_ammunation"
+	{
+		"en"	"Ammu-Nation"
+		"fr"	"Armurerie"
+	}
+	"zone_artificer"
+	{
+		"en"	"Artificer"
+		"fr"	"Artificier"
+	}
+	"zone_technicien"
+	{
+		"en"	"Technician"
+		"fr"	"Technicien"
+	}
+	"zone_construction"
+	{
+		"en"	"Worksite"
+		"fr"	"Chantier"
+	}
+	"zone_kebab"
+	{
+		"en"	"Döner kebab Alihan"
+		"fr"	"Kebab Chez Alihan"
+	}
+	"zone_cardealer"
+	{
+		"en"	"Mercedes-Benz Dealer"
+		"fr"	"Mercedes-Benz - Concess"
+	}
+	"zone_cardealer_parking"
+	{
+		"en"	"Mercedes-Benz - Parking"
+		"fr"	"Mercedes-Benz - Parking"
+	}
+	"zone_blackmarket"
+	{
+		"en"	"BlackMarket"
+		"fr"	"Dépot - Marché noir"
+	}
+	"zone_skin"
+	{
+		"en"	"H & M"
+		"fr"	"H & M"
+	}
+	"zone_market"
+	{
+		"en"	"Grocery store"
+		"fr"	"Épicerie"
+	}
+	"zone_market_jard"
+	{
+		"en"	"Grocery - Storage"
+		"fr"	"Épicerie - Stockage"
+	}
+	"zone_barman"
+	{
+		"en"	"Bar"
+		"fr"	"Bar"
+	}
+	"zone_court"
+	{
+		"en"	"Court"
+		"fr"	"Tribunal"
+	}
+	"zone_carpound"
+	{
+		"en"	"Pound"
+		"fr"	"Fourrière"
+	}
+	"zone_farm"
+	{
+		"en"	"Farm"
+		"fr"	"Ferme"
+	}
+	"zone_barn"
+	{
+		"en"	"Barn"
+		"fr"	"Grange"
+	}
+	"zone_garbage"
+	{
+		"en"	"Recycling depot"
+		"fr"	"Dépot recyclage"
+	}
+	"zone_walmart_parking"
+	{
+		"en"	"Walmart - Parking"
+		"fr"	"Walmart - Parking"
+	}
+	"zone_appart_1"
+	{
+		"en"	"Appartment N°1"
+		"fr"	"Appartement N°1"
+	}
+	"zone_appart_2"
+	{
+		"en"	"Appartment N°2"
+		"fr"	"Appartement N°2"
+	}
+	"zone_appart_3"
+	{
+		"en"	"Appartment N°3"
+		"fr"	"Appartement N°3"
+	}
+	"zone_appart_4"
+	{
+		"en"	"Appartment N°4"
+		"fr"	"Appartement N°4"
+	}
+	"zone_appart_5"
+	{
+		"en"	"Appartment N°5"
+		"fr"	"Appartement N°5"
+	}
+	"zone_appart_6"
+	{
+		"en"	"Appartment N°6"
+		"fr"	"Appartement N°6"
+	}
+	"zone_appart_7"
+	{
+		"en"	"Appartment N°7"
+		"fr"	"Appartement N°7"
+	}
+	"zone_appart_8"
+	{
+		"en"	"Appartment N°8"
+		"fr"	"Appartement N°8"
+	}
+	"zone_appart_9"
+	{
+		"en"	"Appartment N°9"
+		"fr"	"Appartement N°9"
+	}
+	"zone_appart_10"
+	{
+		"en"	"Appartment N°10"
+		"fr"	"Appartement N°10"
+	}
+	"zone_appart_11"
+	{
+		"en"	"Appartment N°11"
+		"fr"	"Appartement N°11"
+	}
+	"zone_appart_12"
+	{
+		"en"	"Appartment N°12"
+		"fr"	"Appartement N°12"
+	}
+	"zone_appart_13"
+	{
+		"en"	"Appartment N°13"
+		"fr"	"Appartement N°13"
+	}
+	"zone_appart_14"
+	{
+		"en"	"Appartment N°14"
+		"fr"	"Appartement N°14"
+	}
+	"zone_appart_15"
+	{
+		"en"	"Appartment N°15"
+		"fr"	"Appartement N°15"
+	}
+	"zone_appart_16"
+	{
+		"en"	"Appartment N°16"
+		"fr"	"Appartement N°16"
+	}
+	"zone_hotel"
+	{
+		"en"	"Hôtel"
+		"fr"	"Hôtel"
+	}
+	"zone_hotel_parking"
+	{
+		"en"	"Hôtel - Parking"
+		"fr"	"Hôtel - Parking"
+	}
+	"zone_hotel_1"
+	{
+		"en"	"Room N°1"
+		"fr"	"Chambre N°1"
+	}
+	"zone_hotel_2"
+	{
+		"en"	"Room N°2"
+		"fr"	"Chambre N°2"
+	}
+	"zone_hotel_3"
+	{
+		"en"	"Room N°3"
+		"fr"	"Chambre N°3"
+	}
+	"zone_hotel_4"
+	{
+		"en"	"Room N°4"
+		"fr"	"Chambre N°4"
+	}
+	"zone_hotel_5"
+	{
+		"en"	"Room N°5"
+		"fr"	"Chambre N°5"
+	}
+	"zone_hotel_6"
+	{
+		"en"	"Room N°6"
+		"fr"	"Chambre N°6"
+	}
+	"zone_hotel_7"
+	{
+		"en"	"Room N°7"
+		"fr"	"Chambre N°7"
+	}
+	"zone_hotel_8"
+	{
+		"en"	"Room N°8"
+		"fr"	"Chambre N°8"
+	}
+	"zone_villa_1"
+	{
+		"en"	"House N°1"
+		"fr"	"Villa N°1"
+	}
+	"zone_villa_2"
+	{
+		"en"	"House N°2"
+		"fr"	"Villa N°2"
+	}
+	"zone_villa_3"
+	{
+		"en"	"House N°3"
+		"fr"	"Villa N°3"
+	}
+	"zone_villa_4"
+	{
+		"en"	"House N°4"
+		"fr"	"Villa N°14"
+	}
+	"zone_parking"
+	{
+		"en"	"Parking"
+		"fr"	"Parking"
+	}
+	"zone_airport"
+	{
+		"en"	"Airport"
+		"fr"	"Aéroport"
+	}
+	"zone_cargo"
+	{
+		"en"	"Port of Oregon"
+		"fr"	"Port d'Oregon"
+	}
+	"zone_casino"
+	{
+		"en"	"Casino of Oregon"
+		"fr"	"Casino d'Oregon"
+	}
+	"zone_sexshop"
+	{
+		"en"	"Sexshop"
+		"fr"	"Sexshop"
+	}
+	"zone_dealer"
+	{
+		"en"	"Coffee Shop"
+		"fr"	"Coffee Shop"
+	}
+	"zone_jewelry"
+	{
+		"en"	"Jewelry"
+		"fr"	"Bijouterie"
+	}
+	"zone_hospital_parking"
+	{
+		"en"	"Hospital - Parking"
+		"fr"	"Parking de l'hôpital"
+	}
+}

@@ -1,0 +1,166 @@
+"Phrases"
+{
+	"Core_WelcomeVilla"
+	{
+		"#format" "{1:s}"
+		"en"	"{darkred}◾️ {default}Villa Contract: {green}{1}"
+		"fr"	"{darkred}◾️ {default}Contrat villa: {green}{1}"
+	}
+	"Product_Type"
+	{
+		"en"	"Choose the product:"
+		"fr"	"Choisissez le produit:"
+	}
+	"Product_Type_Appart"
+	{
+		"en"	"Appartments"
+		"fr"	"Appartements"
+	}
+	"Product_Type_Villa"
+	{
+		"en"	"Houses"
+		"fr"	"Villa"
+	}
+	"Product_Type_Hotel"
+	{
+		"en"	"Room - Hôtel"
+		"fr"	"Chambre - Hôtel"
+	}
+	"Product_Type_Bonus"
+	{
+		"en"	"Bonuses"
+		"fr"	"Bonus"
+	}
+	"Bonus_Type"
+	{
+		"en"	"Choose the bonus:"
+		"fr"	"Choisissez le bonus:"
+	}
+	"Bonus_Type_Health"
+	{
+		"en"	"Health"
+		"fr"	"Vie"
+	}
+	"Bonus_Type_Kevlar"
+	{
+		"en"	"Kevlar"
+		"fr"	"Kevlar"
+	}
+	"Bonus_Type_Pay"
+	{
+		"en"	"Salary"
+		"fr"	"Paye"
+	}
+	"Bonus_Type_Box"
+	{
+		"en"	"Chest"
+		"fr"	"Coffre"
+	}
+	"Bonus_Type_Tomb"
+	{
+		"en"	"Tomb stone"
+		"fr"	"Pierre Tombale"
+	}
+	"Bonus_Sell_Title"
+	{
+		"#format" "{1:s},{2:s},{3:d}"
+		"en"	"{1} offers you the bonus {2} for {3} $"
+		"fr"	"{1} vous propose le bonus {2} pour {3}$"
+	}
+	"Bonus_SellFinal_Buyer"
+	{
+		"#format" "{1:s}"
+		"en"	"You purchased {darkred}{1}{default} successfully."
+		"fr"	"Vous possedez désormais le bonus {darkred}{1}{default}."
+	}
+	"Bonus_SellFinal_Seller"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"You have sold a {darkred}{1} {default}bonus to {lightgreen}{2} {default}."
+		"fr"	"Vous avez vendu un bonus {darkred}{1} {default}à {lightgreen}{2}{default}."
+	}
+	"Appartment_Type"
+	{
+		"en"	"Choose the appartment:"
+		"fr"	"Choisissez l'appartement:"
+	}
+	"Villa_Type"
+	{
+		"en"	"Choose the house:"
+		"fr"	"Choisissez la villa:"
+	}
+	"Hotel_Type"
+	{
+		"en"	"Choose the room:"
+		"fr"	"Choisissez la chambre:"
+	}
+	"Appart_Sell_Title"
+	{
+		"#format" "{1:s},{2:d},{3:d}"
+		"en"	"{1} offers you the apartment Nº {2} for ${3}"
+		"fr"	"{1} vous propose l'appartement Nº{2} pour {3}$"
+	}
+	"Appart_SellFinal_Buyer"
+	{
+		"#format" "{1:d}"
+		"en"	"Apartment Nº{darkred}{1} {default}is now yours."
+		"fr"	"L'Appartement Nº{darkred}{1} {default}vous appartient désormais."
+	}
+	"Appart_SellFinal_Seller"
+	{
+		"#format" "{1:d},{2:s}"
+		"en"	"You have sold apartment Nº{darkred}{1} {default}to {lightgreen}{2}{default}."
+		"fr"	"Vous avez vendu l'appartement Nº{darkred}{1} {default}à {lightgreen}{2}{default}."
+	}
+	"Villa_Sell_Title"
+	{
+		"#format" "{1:s},{2:d},{3:d}"
+		"en"	"{1} offers you the house Nº {2} for ${3}"
+		"fr"	"{1} vous propose la villa Nº{2} pour {3}$"
+	}
+	"Villa_SellFinal_Buyer"
+	{
+		"#format" "{1:d}"
+		"en"	"Villa Nº{darkred}{1} {default}is now yours."
+		"fr"	"La villa Nº{darkred}{1} {default}vous appartient désormais."
+	}
+	"Villa_SellFinal_Seller"
+	{
+		"#format" "{1:d},{2:s}"
+		"en"	"You have sold house Nº{darkred}{1} {default}to {lightgreen}{2}{default}."
+		"fr"	"Vous avez vendu la villa Nº{darkred}{1} {default}à {lightgreen}{2}{default}."
+	}
+	"Hotel_Sell_Title"
+	{
+		"#format" "{1:s},{2:d},{3:d}"
+		"en"	"{1} offers you the room Nº {2} for ${3}"
+		"fr"	"{1} vous propose la chambre Nº{2} pour {3}$"
+	}
+	"Hotel_SellFinal_Buyer"
+	{
+		"#format" "{1:d}"
+		"en"	"Room Nº{darkred}{1} {default}is now yours."
+		"fr"	"La chambre Nº{darkred}{1} {default}vous appartient désormais."
+	}
+	"Hotel_SellFinal_Seller"
+	{
+		"#format" "{1:d},{2:s}"
+		"en"	"You have sold room Nº{darkred}{1} {default}to {lightgreen}{2}{default}."
+		"fr"	"Vous avez loué la chambre Nº{darkred}{1} {default}à {lightgreen}{2}{default}."
+	}
+	"MenuBox_Title"
+	{
+		"en"	"Your weapons chest"
+		"fr"	"Votre coffre d'armes"
+	}
+	"MenuBox_Store"
+	{
+		"en"	"Store the weapon"
+		"fr"	"Ranger l'arme"
+	}
+	"MenuBox_Recover"
+	{
+		"en"	"Recover a weapon"
+		"fr"	"Récupérer une arme"
+	}
+}

@@ -1,0 +1,84 @@
+"Phrases"
+{
+	"Q13_title"
+	{
+		"en"	"Nationality"
+		"fr"	"Nationalité"
+	}
+	"Q14_title"
+	{
+		"en"	"Sex"
+		"fr"	"Sexe"
+	}
+	"Q14_option1"
+	{
+		"en"	"Man"
+		"fr"	"Homme"
+	}
+	"Q14_option2"
+	{
+		"en"	"Women"
+		"fr"	"Femme"
+	}
+	"Chat_SelectedOption"
+	{
+		"#format" "{1:s}"
+		"en"	"You have selected: {green}{1}{default}."
+		"fr"	"Vous avez choisi: {green}{1}{default}."
+	}
+	"nationality_algeria"
+	{
+		"en"	"Algerian"
+		"fr"	"Algérienne"
+	}
+	"nationality_germany"
+	{
+		"en"	"German"
+		"fr"	"Allemande"
+	}
+	"nationality_belgium"
+	{
+		"en"	"Belgian"
+		"fr"	"Belge"
+	}
+	"nationality_china"
+	{
+		"en"	"Chinese"
+		"fr"	"Chinoise"
+	}
+	"nationality_france"
+	{
+		"en"	"French"
+		"fr"	"Française"
+	}
+	"nationality_japan"
+	{
+		"en"	"Japanese"
+		"fr"	"Japonaise"
+	}
+	"nationality_poland"
+	{
+		"en"	"Polish"
+		"fr"	"Polonaise"
+	}
+	"nationality_netherlands"
+	{
+		"en"	"Dutch"
+		"fr"	"Hollandaise"
+	}
+	"nationality_romania"
+	{
+		"en"	"Romanian"
+		"fr"	"Roumaine"
+	}
+	"nationality_russia"
+	{
+		"en"	"Russian"
+		"fr"	"Russe"
+	}
+	"nationality_serbia"
+	{
+		"en"	"Serbian"
+		"fr"	"Serbe"
+	}
+}

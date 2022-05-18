@@ -1,0 +1,108 @@
+"Phrases"
+{
+	"UserBanned_Timestamp"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	""
+		"fr"	"Vous avez été banni jusqu a {1} !\n{2}\nRendez-vous sur https://bans.enemy-down.eu/"
+	}
+	"UserBanned_Permanent"
+	{
+		"#format" "{1:s}"
+		"en"	""
+		"fr"	"Vous avez été banni permanent !\n{1}\nRendez-vous sur https://bans.enemy-down.eu/"
+	}
+	"MenuAdmin_Title"
+	{
+		"en"	"Administration"
+		"fr"	"Administration"
+	}
+	"MenuAdmin_JobMenu"
+	{
+		"en"	"Job"
+		"fr"	"Métier"
+	}
+	"MenuAdmin_Noclip"
+	{
+		"en"	"Noclip"
+		"fr"	"Noclip"
+	}
+	"MenuAdmin_Kick"
+	{
+		"en"	"Kick"
+		"fr"	"Kick"
+	}
+	"MenuAdmin_Ban"
+	{
+		"en"	"Ban"
+		"fr"	"Ban"
+	}
+	"MenuAdmin_Mute"
+	{
+		"en"	"Mute"
+		"fr"	"Mute"
+	}
+	"MenuAdmin_Teleport"
+	{
+		"en"	"Téléportation"
+		"fr"	"Téléportation"
+	}
+	"MenuAdmin_Freeze"
+	{
+		"en"	"Freeze"
+		"fr"	"Freeze"
+	}
+	"MenuAdmin_Reboot"
+	{
+		"en"	"Reboot the map"
+		"fr"	"Redémarrage de la map"
+	}
+	"MenuAdmin_Vip"
+	{
+		"en"	"Vip"
+		"fr"	"Vip"
+	}
+	"MenuAdmin_Admin"
+	{
+		"en"	"Gestion admin"
+		"fr"	"Gestion admin"
+	}
+	"MenuAdmin_Tag"
+	{
+		"en"	"Tag"
+		"fr"	"Tag"
+	}
+	"MenuAdmin_Props"
+	{
+		"en"	"Props"
+		"fr"	"Props"
+	}
+	"MenuAdmin_SubJobMenu"
+	{
+		"en"	"Manage a player's job:"
+		"fr"	"Gérer le métier d'un joueur:"
+	}
+	"MenuAdmin_JobMenu_Target"
+	{
+		"#format" "{1:s}"
+		"en"	"Manage {1} 's job:"
+		"fr"	"Gérer le métier de {1}:"
+	}
+	"MenuAdmin_JobGrade_Target"
+	{
+		"#format" "{1:s}"
+		"en"	"Manage {1} grade:"
+		"fr"	"Gérer le grade de {1}:"
+	}
+	"MenuAdmin_JobClient_None"
+	{
+		"#format" "{1:s}"
+		"en"	"You fired {1}, he is now unemployed."
+		"fr"	"Vous avez viré {1}, il est maintenant sans emploi."
+	}
+	"MenuAdmin_Job_NoJob"
+	{
+		"en"	"You are now unemployed."
+		"fr"	"Vous êtes maintenant sans emploi."
+	}
+}

@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"Title_VIP"
+	{
+		"en"	"=== VIP ===\n"
+		"fr"	"=== VIP ===\n"
+	}
+	"param_particles"
+	{
+		"en"	"Particles"
+		"fr"	"Particules"
+	}
+	"param_skins"
+	{
+		"en"	"Skins"
+		"fr"	"Skins"
+	}
+	"param_skins"
+	{
+		"en"	"Skins"
+		"fr"	"Skins"
+	}
+	"param_finition"
+	{
+		"en"	"Weapons skins"
+		"fr"	"Finitions d'armes"
+	}
+	"param_tag"
+	{
+		"en"	"Tag"
+		"fr"	"Tag"
+	}
+	"param_tagcolor"
+	{
+		"en"	"Tag Color"
+		"fr"	"Couleures de tags"
+	}
+	"Title_Particles"
+	{
+		"en"	"=== VIP === | Particles\n"
+		"fr"	"=== VIP === | Particules\n"
+	}
+	"Title_Skins"
+	{
+		"en"	"=== VIP === | SKINS\n"
+		"fr"	"=== VIP === | SKINS\n"
+	}
+	"Title_Finition"
+	{
+		"en"	"=== VIP === | SKINS WEAPON\n"
+		"fr"	"=== VIP === | FINITION\n"
+	}
+	"Title_Tag"
+	{
+		"en"	"=== VIP === | TAGS\n"
+		"fr"	"=== VIP === | TAGS\n"
+	}
+	"Title_TagColor"
+	{
+		"en"	"=== VIP === | TAG COLORS\n"
+		"fr"	"=== VIP === | COULEURES TAG\n"
+	}
+	"param_noneparticles"
+	{
+		"en"	"None\n"
+		"fr"	"Aucune\n"
+	}
+}

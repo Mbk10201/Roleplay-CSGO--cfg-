@@ -1,0 +1,40 @@
+"Phrases"
+{
+	"MenuWeather_Title"
+	{
+		"en"	"☂ Contrôle météo ☃"
+		"fr"	"☂ Weather Control ☃"
+	}
+	"MenuWeather_Storm"
+	{
+		"#format" "{1:s}"
+		"en"	"💨 Storm [{1}]"
+		"fr"	"💨 Tempête [{1}]"
+	}
+	"MenuWeather_Clouds"
+	{
+		"#format" "{1:s}"
+		"en"	"💨 Clouds [{1}]"
+		"fr"	"💨 Nuages [{1}]"
+	}
+	"MenuWeather_Triggers"
+	{
+		"en"	"☢ Triggers"
+		"fr"	"☢ Déclancheurs"
+	}
+	"MenuWeather_Reset"
+	{
+		"en"	"☉ Reset Weather"
+		"fr"	"☉ Réinitialiser la météo"
+	}
+	"MenuTrigger_Title"
+	{
+		"en"	"☂ Triggers"
+		"fr"	"☂ Déclancheurs"
+	}
+	"MenuTrigger_Radiation"
+	{
+		"en"	"☣ Radiation"
+		"fr"	"☣ Iradiations"
+	}
+}

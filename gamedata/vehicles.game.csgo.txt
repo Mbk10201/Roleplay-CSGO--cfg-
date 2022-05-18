@@ -1,0 +1,14 @@
+"Games"
+{
+	"csgo"
+	{
+		"Signatures"
+		{			
+			"CBasePlayer::LeaveVehicle"
+			{
+				"library"	"server"
+				"linux"         "\x55\x89\xE5\x57\x56\x53\x83\xEC\x4C\x8B\x5D\x08\x8B\x7D\x0C\x8B\x55\x10"
+			}
+		}
+	}
+}

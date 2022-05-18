@@ -1,0 +1,14 @@
+"Games"
+{
+	"csgo"
+	{
+		"Signatures"
+		{			
+			"CBaseAnimating::GetBonePosition"
+			{
+				"library"    "server"
+				"linux"      "\x55\x89\xE5\x83\xEC\x68\x89\x5D\xF4\x8B\x5D\x08\x89\x75\xF8\x8B\x75\x0C\x89\x7D\xFC\x8B\x7D\x10"
+			}
+		}
+	}
+}

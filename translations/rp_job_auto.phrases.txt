@@ -1,0 +1,109 @@
+"Phrases"
+{
+	"ADMIN_MenuVehicle_Title"
+	{
+		"en"	"Vehicles"
+		"fr"	"Voitures"
+	}
+	"ADMIN_MenuVehicle_Give"
+	{
+		"en"	"Give a vehicle"
+		"fr"	"Donner une voiture"
+	}
+	"ADMIN_MenuVehicle_Spawn"
+	{
+		"en"	"Spawn a vehicle"
+		"fr"	"Spawn une voiture"
+	}
+	"Tchat_GiveVehicle_ToClient"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"{lightred}{1} {default}gave you a {green}{2}{default}."
+		"fr"	"{lightred}{1} {default}vous a give un/une {green}{2}{default}."
+	}
+	"Tchat_GiveVehicle_ToAdmin"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"you gave a {green}{1} {default}to {lightred}{2}{default}."
+		"fr"	"vous avez give un/une {green}{1} {default}à {lightred}{2}{default}."
+	}
+	"exhaust"
+	{
+		"en"	"Exhaust"
+		"fr"	"Echappement"
+		"ro"	""
+		"kr"	""
+		"he"	""
+	}
+	"skirt"
+	{
+		"en"	"Skirt"
+		"fr"	"Bas de caisse"
+		"ro"	""
+		"kr"	""
+		"he"	""
+	}
+	"wing"
+	{
+		"en"	"Wing"
+		"fr"	"Aileron"
+		"ro"	""
+		"kr"	""
+		"he"	""
+	}
+	"fbumper"
+	{
+		"en"	"Front Bumper"
+		"fr"	"Pare-choc avant"
+	}
+	"rbumper"
+	{
+		"en"	"Rear Bumper"
+		"fr"	"Pare-choc arrière"
+	}
+	"plates"
+	{
+		"en"	"Plates"
+		"fr"	"Plaques"
+	}
+	"steeringwheel"
+	{
+		"en"	"Steering Wheel"
+		"fr"	"Volant"
+	}
+	"flights"
+	{
+		"en"	"Front light"
+		"fr"	"Lumières avant"
+	}
+	"rlights"
+	{
+		"en"	"Rear light"
+		"fr"	"Lumières arrières"
+	}
+	"rubber"
+	{
+		"en"	"Rubber"
+		"fr"	"Pneus"
+	}
+	"caliper"
+	{
+		"en"	"Caliper"
+		"fr"	"Etrier"
+	}
+	"brake"
+	{
+		"en"	"Brake disc"
+		"fr"	"Disque de frein"
+	}
+	"glass"
+	{
+		"en"	"Glass"
+		"fr"	"Vitres"
+	}
+	"hood"
+	{
+		"en"	"Hood"
+		"fr"	"Capot"
+	}
+}
